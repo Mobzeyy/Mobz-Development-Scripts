@@ -45,12 +45,7 @@ Developed by **Mobz Development**
 ![Mobz](https://i.postimg.cc/RZrBFgCH/ZOMBIEWAR.png)
 
 
-### 🪓 Mobz-Dig-Holes
-
-[![Standalone](https://img.shields.io/badge/Standalone-Supported-8A2BE2?style=for-the-badge)](https://fivem.net)
-[![QB-Core](https://img.shields.io/badge/QB--Core-Compatible-8A2BE2?style=for-the-badge)](https://docs.qbcore.org)
-[![ESX](https://img.shields.io/badge/ESX-Compatible-8A2BE2?style=for-the-badge)](https://esx-framework.org)
-
+### 🪓 Frameworks
 
 [![Standalone](https://img.shields.io/badge/Standalone-Supported-2ecc71?style=for-the-badge)](https://fivem.net)
 [![QB-Core](https://img.shields.io/badge/QB--Core-Compatible-3498db?style=for-the-badge)](https://docs.qbcore.org)
