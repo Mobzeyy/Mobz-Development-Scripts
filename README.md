@@ -44,6 +44,17 @@ Developed by **Mobz Development**
 
 ![Mobz](https://i.postimg.cc/RZrBFgCH/ZOMBIEWAR.png)
 
+
+### 🪓 Mobz-Dig-Holes
+
+[![Standalone](https://img.shields.io/badge/Standalone-Supported-2ecc71?style=for-the-badge)](https://fivem.net)
+[![QB-Core](https://img.shields.io/badge/QB--Core-Compatible-3498db?style=for-the-badge)](https://docs.qbcore.org)
+[![ESX](https://img.shields.io/badge/ESX-Compatible-e67e22?style=for-the-badge)](https://esx-framework.org)
+
+Dig, explore, and uncover secrets across the map. Supports multiple frameworks.
+
+---
+
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-yellow)
