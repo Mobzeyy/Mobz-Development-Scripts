@@ -1,3 +1,10 @@
+<div align="center">
+
+
+**© 2025 Mobz & Mez Development**  
+*Crafted with 💜 by developers, for developers.*
+
+</div>
 
 </div>
 
@@ -69,17 +76,11 @@
 
 ---
 
+<div align="center">
+
 ### ⚖️ License
 
 Licensed under **MIT License**  
 © 2025 **Mobz Development** All rights reserved.
-
----
-
-<div align="center">
-
-
-**© 2025 Mobz & Mez Development**  
-*Crafted with 💜 by developers, for developers.*
 
 </div>
