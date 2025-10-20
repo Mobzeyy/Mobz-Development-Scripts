@@ -26,28 +26,11 @@
 [![ESX](https://img.shields.io/badge/Framework-ESX-red?style=for-the-badge)](https://github.com/esx-framework/es_extended)
 [![Standalone](https://img.shields.io/badge/Standalone-Compatible-green?style=for-the-badge)](#overview)
 
-<!-- Quick Actions -->
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/YOURINVITE)
-[![Tebex](https://img.shields.io/badge/Tebex-Store-00b894?style=for-the-badge)](https://mobz.tebex.io)
-[![FiveM](https://img.shields.io/badge/FiveM-Framework-orange?style=for-the-badge&logo=fivem)](https://fivem.net)
-
-
 ---
 
 <!-- Team / Credits -->
 [![Mobz & Mez](https://img.shields.io/badge/Mobz%20%26%20Mez-Lead%20Developers-8A2BE2?style=for-the-badge&logo=github)](README.md#license--credits)
 [![Mobz Development](https://img.shields.io/badge/Mobz%20Development-Official-purple?style=for-the-badge)](README.md)
-
-[![Tebex](https://img.shields.io/badge/Tebex-Store-00b894?style=for-the-badge&logo=tebex)](https://mobz.tebex.io)
-
----
-
-<!-- Community & Support -->
-[![💬 Discord](https://img.shields.io/badge/💬_Join_Our_Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/a6qECrxuCg)
-[![🛒 Tebex](https://img.shields.io/badge/🛒_Visit_Our_Store-00b894?style=for-the-badge)](https://zombie-war.tebex.io)
-
-
-
 
 --- 
 
