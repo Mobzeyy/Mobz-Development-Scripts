@@ -51,8 +51,9 @@ Licensed under **MIT License**
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.0-yellow?style=flat-square)
 
+</div>
+
 ---
+
 **© 2025 Mobz & Mez Development**  
 *Crafted with 💜 by developers, for developers.*
-
-</div>
