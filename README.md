@@ -6,13 +6,12 @@
 
 </div>
 
-</div>
+
 
 ---
 
 ## 📦 Script Collection
 
-<div align="center">
 
 [![Mobz 3D Images](https://img.shields.io/badge/Mobz-3D%20Images-8A2BE2?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-3dimages/mobz-3dimages)
 [![Class Progression](https://img.shields.io/badge/Mobz-Class%20Progression-ff66cc?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-classprogression/mobz-classprogression)
@@ -42,10 +41,6 @@
 [![FiveM](https://img.shields.io/badge/FiveM-Framework-orange?style=for-the-badge&logo=fivem)](https://fivem.net)
 
 ---
-
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0-yellow?style=flat-square)
 
 </div>
 
@@ -84,3 +79,8 @@ Licensed under **MIT License**
 © 2025 **Mobz Development** All rights reserved.
 
 </div>
+
+
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.0-yellow?style=flat-square)
