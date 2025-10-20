@@ -20,8 +20,6 @@
 [![Vehicle Access](https://img.shields.io/badge/Mobz-Vehicle%20Access-3498db?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-vehicleaccess/mobz-vehicleaccess)
 [![Weather System](https://img.shields.io/badge/Mobz-Weather-9b59b6?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-weather/mobz-weather)
 
-</div>
-
 ---
 
 <!-- Team / Credits -->
@@ -42,7 +40,7 @@
 
 ---
 
-</div>
+
 
 ---
 
