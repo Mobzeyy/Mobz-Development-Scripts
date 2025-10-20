@@ -34,7 +34,7 @@
 [![Tebex](https://img.shields.io/badge/Tebex-Store-00b894?style=for-the-badge)](https://mobz.tebex.io)
 [![FiveM](https://img.shields.io/badge/FiveM-Framework-orange?style=for-the-badge&logo=fivem)](https://fivem.net)
 
-</div>
+
 ---
 
 <!-- Team / Credits -->
@@ -42,9 +42,10 @@
 [![Mobz Development](https://img.shields.io/badge/Mobz%20Development-Official-purple?style=for-the-badge)](README.md)
 
 
+
 ---
 
-<div align="center">
+
 
 ### 🧭 Navigation & Links
 
@@ -65,7 +66,7 @@
 
 ---
 
-<div align="center">
+
 
 ### ⚖️ License
 
