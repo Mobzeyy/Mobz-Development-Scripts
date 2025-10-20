@@ -18,21 +18,6 @@
 
 ---
 
-### ⚖️ License
-
-Licensed under **MIT License**  
-© 2025 **Mobz Development** All rights reserved.
-
----
-
-<div align="center">
-
-<!-- Logo -->
-<img src="https://i.postimg.cc/RZrBFgCH/ZOMBIEWAR.png" alt="Mobz Logo" width="200" style="border-radius:15px; margin-bottom:10px;" />
-
-
----
-
 <!-- Team / Credits -->
 [![Mobz & Mez](https://img.shields.io/badge/Mobz%20%26%20Mez-Lead%20Developers-8A2BE2?style=for-the-badge&logo=github)](README.md#license--credits)
 [![Mobz Development](https://img.shields.io/badge/Mobz%20Development-Official-purple?style=for-the-badge)](README.md)
@@ -77,6 +62,22 @@ Licensed under **MIT License**
 [![🛒 Tebex](https://img.shields.io/badge/🛒_Visit_Our_Store-00b894?style=for-the-badge)](https://mobz.tebex.io)
 
 ---
+
+<!-- Logo -->
+<img src="https://i.postimg.cc/RZrBFgCH/ZOMBIEWAR.png" alt="Mobz Logo" width="200" style="border-radius:15px; margin-bottom:10px;" />
+
+
+---
+
+### ⚖️ License
+
+Licensed under **MIT License**  
+© 2025 **Mobz Development** All rights reserved.
+
+---
+
+<div align="center">
+
 
 **© 2025 Mobz & Mez Development**  
 *Crafted with 💜 by developers, for developers.*
