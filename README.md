@@ -1,16 +1,13 @@
 <div align="center">
 
 
-**© 2025 Mobz & Mez Development**  
-*Crafted with 💜 by developers, for developers.*
-
-</div>
-
 
 
 ---
 
-## 📦 Script Collection
+ 📦 Script Collection 
+
+## 🧭 Navigation & Links
 
 <div align="center">
   
@@ -42,20 +39,6 @@
 [![Mobz Development](https://img.shields.io/badge/Mobz%20Development-Official-purple?style=for-the-badge)](README.md)
 
 
-
----
-
-
-
-### 🧭 Navigation & Links
-
----
-
-<!-- Primary Navigation -->
-[![⬆️ Back to Top](https://img.shields.io/badge/⬆️_Back_to_Top-9b59b6?style=for-the-badge)](../mobz-prestiged-documentations/README.md)
-
-[![🏠 Main Docs](https://img.shields.io/badge/🏠_Main_Documentation-8e44ad?style=for-the-badge)](../README.md)
-
 ---
 
 <!-- Community & Support -->
@@ -63,19 +46,21 @@
 [![🛒 Tebex](https://img.shields.io/badge/🛒_Visit_Our_Store-00b894?style=for-the-badge)](https://mobz.tebex.io)
 
 
-
 ---
-
-
 
 ### ⚖️ License
 
 Licensed under **MIT License**  
 © 2025 **Mobz Development** All rights reserved.
 
-</div>
-
+---
 
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.0-yellow?style=flat-square)
+
+---
+**© 2025 Mobz & Mez Development**  
+*Crafted with 💜 by developers, for developers.*
+
+</div>
