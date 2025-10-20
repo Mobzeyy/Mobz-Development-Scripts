@@ -11,7 +11,7 @@
 
 <div align="center">
   
-[![💬 Mobz 3D Images](https://img.shields.io/badge/💬Mobz-3D%20Images-8A2BE2?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-3dimages/mobz-3dimages)
+[![Mobz 3D Images](https://img.shields.io/badge/Mobz-3D%20Images-8A2BE2?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-3dimages/mobz-3dimages)
 [![Class Progression](https://img.shields.io/badge/Mobz-Class%20Progression-ff66cc?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-classprogression/mobz-classprogression)
 [![Dig Holes](https://img.shields.io/badge/Mobz-Dig%20Holes-ff9933?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-digholes/mobz-dighole)
 [![Population](https://img.shields.io/badge/Mobz-Population-00b894?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-population/mobz-population)
