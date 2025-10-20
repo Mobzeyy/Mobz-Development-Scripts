@@ -21,11 +21,6 @@
 [![Vehicle Access](https://img.shields.io/badge/Mobz-Vehicle%20Access-3498db?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-vehicleaccess/mobz-vehicleaccess)
 [![Weather System](https://img.shields.io/badge/Mobz-Weather-9b59b6?style=for-the-badge)](https://github.com/Mobzeyy/Mobz-Development-Scripts/tree/main/mobz-weather/mobz-weather)
 
----
-
-<!-- Team / Credits -->
-[![Mobz & Mez](https://img.shields.io/badge/Mobz%20%26%20Mez-Lead%20Developers-8A2BE2?style=for-the-badge&logo=github)](README.md#license--credits)
-[![Mobz Development](https://img.shields.io/badge/Mobz%20Development-Official-purple?style=for-the-badge)](README.md)
 
 ---
 
@@ -42,6 +37,9 @@
 </div>
 ---
 
+<!-- Team / Credits -->
+[![Mobz & Mez](https://img.shields.io/badge/Mobz%20%26%20Mez-Lead%20Developers-8A2BE2?style=for-the-badge&logo=github)](README.md#license--credits)
+[![Mobz Development](https://img.shields.io/badge/Mobz%20Development-Official-purple?style=for-the-badge)](README.md)
 
 
 ---
