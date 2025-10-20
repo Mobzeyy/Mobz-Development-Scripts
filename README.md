@@ -47,6 +47,14 @@
 [![🛒 Tebex](https://img.shields.io/badge/🛒_Visit_Our_Store-00b894?style=for-the-badge)](https://zombie-war.tebex.io)
 
 
+
+
+--- 
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/a6qECrxuCg)
+[![Tebex](https://img.shields.io/badge/Tebex-Store-00b894?style=for-the-badge)](https://zombie-war.tebex.io)
+[![FiveM](https://img.shields.io/badge/FiveM-Framework-orange?style=for-the-badge&logo=fivem)](https://fivem.net)
+
 ---
 
 ### ⚖️ License
